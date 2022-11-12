@@ -1,3 +1,13 @@
+# External libraries in the same path
+amh/ecdsa/
+amh/jose/
+amh/pycognito/
+amh/envs/
+amh/unidecode/
+venv/
+amh/config.ini
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
