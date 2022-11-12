@@ -3,7 +3,7 @@ amh/ecdsa/
 amh/jose/
 amh/pycognito/
 amh/envs/
-amh/unicode/
+amh/unidecode/
 venv/
 amh/config.ini
 
