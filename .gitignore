@@ -5,6 +5,7 @@ amh/pycognito/
 amh/envs/
 amh/unicode/
 venv/
+amh/config.ini
 
 
 # Byte-compiled / optimized / DLL files
