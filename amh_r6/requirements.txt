@@ -1,4 +1,0 @@
-# ask-sdk-core
-unicode==2.9
-pycognito
-# ecdsa y jose came with pycognito
